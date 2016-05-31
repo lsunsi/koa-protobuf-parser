@@ -1,0 +1,29 @@
+{
+  "name": "koa-protobuf-parser",
+  "version": "0.1.0",
+  "description": "utility for automated protocol buffer message decoding",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsunsi/koa-protobuf-parser.git"
+  },
+  "keywords": [
+    "koa",
+    "protobuf",
+    "protocol",
+    "buffers",
+    "decode",
+    "message",
+    "middleware"
+  ],
+  "author": "lsunsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsunsi/koa-protobuf-parser/issues"
+  },
+  "homepage": "https://github.com/lsunsi/koa-protobuf-parser#readme",
+  "dependencies": {
+    "co-body": "^4.2.0"
+  }
+}
