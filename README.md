@@ -1,5 +1,6 @@
-Koa Protobuf Parser
+koa protobuf parser
 ===
+Middlware that parses protocol buffers from request body.
 
 Installation
 ---
